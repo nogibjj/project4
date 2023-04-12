@@ -24,3 +24,8 @@
 *  `Model Evaluation: Once the model is trained, it needs to be evaluated to ensure that it is accurate and effective.`
 
 3. The "train.csv" file is used for training the model, the "test.csv" file is used for evaluating the final performance of the model, and the "test-out" dataset is used during the development process to tune the hyperparameters of the model.
+
+4. Metrics
+![Figure](https://github.com/nogibjj/project4/blob/main/Screen%20Shot%202023-04-12%20at%2012.40.41%20PM.png)
+
+![Figure](https://github.com/nogibjj/project4/blob/main/Screen%20Shot%202023-04-12%20at%2012.40.50%20PM.png)

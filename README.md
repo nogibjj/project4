@@ -1,6 +1,8 @@
 # project4: Serverless Data Engineering Pipeline
 ![Figure](https://github.com/nogibjj/project4/blob/main/Screen%20Shot%202023-04-05%20at%208.57.17%20PM.png)
 
+##  use step function to construct a serveless model to train a machine learning model.
+
 1. Things included are:
 
 * `An AWS Lambda function`
